@@ -1,0 +1,12 @@
+{
+    "description": "This VS Code extension provides support for creating and editing Ansible documents.",
+    "displayName": "Ansible",
+    "id": "vscoss/vscode-ansible/latest",
+    "links": {
+      "self": "/v3/plugins/vscoss/vscode-ansible/latest/"
+    },
+    "name": "vscode-ansible",
+    "publisher": "Microsoft",
+    "type": "VS Code extension",
+    "version": "latest"
+  },
